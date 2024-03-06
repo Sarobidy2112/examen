@@ -14,3 +14,26 @@ body{
     width: 50vw;
     text-align: center;
 }
+
+.menu{
+    padding: 25px 50px;
+    background-color: aquamarine;
+}
+
+.menu .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu .navbar h1{
+    font-size: 2em;
+}
+
+.menu .navbar .links ul{
+    display: flex;
+}
+
+.menu .navbar .links ul li{
+    margin-left: 100px;
+}
