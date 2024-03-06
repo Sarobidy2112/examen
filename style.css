@@ -14,16 +14,3 @@ body{
     width: 50vw;
     text-align: center;
 }
-
-footer{
-    display: flex;
-    padding: 100px 50px 50px 50px;
-    text-align: center;
-    align-items: center;
-    border-top: 2px solid red;
-    background-color: gray;
-}
-
-footer div{
-    margin-left: 75px;
-}
