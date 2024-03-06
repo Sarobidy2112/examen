@@ -14,3 +14,8 @@ body{
     width: 50vw;
     text-align: center;
 }
+
+.text{
+    padding: 85px;
+    text-align: center;
+}
